@@ -432,13 +432,6 @@ h6 {
   font-family: 'Orbitron', sans-serif;
 }
 
-#hero .container_ {
-  padding-top: 70px;
-  position: relative;
-  margin: auto 0;
-  margin-right: 30px;
-}
-
 @media (max-width: 992px) {
   #hero .container {
     padding-top: 58px;
@@ -479,11 +472,6 @@ h6 {
     margin: auto 0;
     margin-left: 30px;
     font-family: 'Orbitron', sans-serif;
-  }
-
-  #hero h1 {
-    font-size: 28px;
-    line-height: 36px;
   }
 }
 
